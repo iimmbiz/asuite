@@ -1,2 +1,2 @@
-# Amazing Suite Space
-Software As A Service
+# asuite.space
+Amazing Suite Space
